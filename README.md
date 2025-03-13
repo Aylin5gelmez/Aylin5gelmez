@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aylin Gelmez  
 
+![MasterHead](https://img.freepik.com/free-vector/top-view-wooden-messy-work-table-night-cartoon-vector-workspace-with-light-from-screen-tablet-notebook-sticky-notes-cookie-crumbs-keyboard-coffee-spills-desk-phone-glasses_107791-23714.jpg?t=st=1741877527~exp=1741881127~hmac=dcf6756c99edf4fc21b022b4bd5d05365498547b7d7ec7fb047ce7ef88b255f1&w=1380)
+
 📌 **Management Information Systems Graduate (2024)**  
 💻 **Started with Java in 2022, explored Unity in 2023, and now focusing on data analysis and business intelligence with Python.**  
 🔍 **Passionate about data analysis, business intelligence, artificial intelligence, and business process management.**  
