@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylin5gelmez&" alt="aylin5gelmez" /></p>
 
 
-![snake gif](https://github.com/Aylin5gelmez/Aylin5gelmez/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Aylin5gelmez/Aylin5gelmez/output/github-contribution-grid-snake.svg)
+
