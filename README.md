@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aylin5gelmez&show_icons=true&locale=en" alt="aylin5gelmez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylin5gelmez&" alt="aylin5gelmez" /></p>
+
+
+![snake gif](https://github.com/Aylin5gelmez/Aylin5gelmez/blob/output/github-contribution-grid-snake.gif)
